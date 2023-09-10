@@ -1,0 +1,19 @@
+#Ignore vscode config
+/.vscode
+
+#Ignore binary files
+*.o
+/test/*
+!/test/Makefile
+!/test/mk
+!/test/*.c
+
+#Ignore binary files
+/apps/*
+!/apps/mk
+!/apps/Makefile
+!/apps/*.c
+!/apps/*.h
+
+#Ignore binary files
+/bin/*.a

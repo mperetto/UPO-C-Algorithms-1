@@ -1,0 +1,1 @@
+test_targets += test_linked_list

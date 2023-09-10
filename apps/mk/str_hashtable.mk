@@ -1,0 +1,1 @@
+apps_targets += str_hashtable
